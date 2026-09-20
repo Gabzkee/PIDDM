@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Gabzkee/PIDDM/issues"
   },
-  "homepage": "https://github.com/Gabzkee/PIDDM#readme"
+  "homepage": "https://github.com/Gabzkee/PIDDM#readme",
+  "dependencies": {
+    "expo": "^57.0.24"
+  }
 }

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "43041f4a-8775-4013-b5af-ea7dc122b7ef"
+      }
+    },
+    "android": {
+      "package": "com.bagzazevs.piddm"
+    }
+  }
+}
