@@ -16,18 +16,18 @@ export default function App() {
                     options={{
                       tabBarIcon: ({ color, size }) => (
                         <Ionicons
-                          name="walk-outline"
+                          name="compass-outline"
                           size={size}
                           color={color}
                         />
                       )
                     }}
         />
-        <Tab.Screen name="Pressão Atmosferica" component={Barometro}
+        <Tab.Screen name="Pressão/Altura" component={Barometro}
                     options={{
                       tabBarIcon: ({ color, size }) => (
                         <Ionicons
-                          name="footsteps-outline"
+                          name="airplane-outline"
                           size={size}
                           color={color}
                         />
