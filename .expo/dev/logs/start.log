@@ -1,0 +1,18 @@
+{"_e":"root:init","_t":1789945955871,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1789945955872,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789945955875,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789945958752,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789945959149,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789945960900,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789945968079,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789946049619,"id":"1","platform":"android","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:progress","_t":1789946049620,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789946049624,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789946054129,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:failed","_t":1789946054140,"id":"1","message":"Unable to resolve \"@expo/vector-icons\" from \"App.js\"\n   5 | import Bussola from './components/Bussola';\n   6 | import Light from './components/Light';\n>  7 | import { Ionicons } from '@expo/vector-icons';\n     |                           ^\n   8 |\n   9 | const Tab = createBottomTabNavigator();\n  10 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"App.js"}
+{"_e":"root:init","_t":1789948497997,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1789948497998,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789948498000,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789948498367,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789948498700,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789948499000,"plugins":[]}
