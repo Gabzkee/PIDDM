@@ -21,7 +21,7 @@ Ou, para abrir diretamente no Android:
 npx expo start --android
 ```
 
-Ou, para baixar o apk
+Ou, para gerar e sbaixar o apk.
 
 ```bash
 eas build -p android --profile preview
